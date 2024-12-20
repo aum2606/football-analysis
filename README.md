@@ -1,6 +1,6 @@
 # Football Analysis Deep Learning Project
 
-![Sample Output](/output_videos/output_sample_screenshot.png)
+![Sample Output](output_videos/output_sample_screenshot.png)
 
 This project is a deep learning-powered football analysis tool that processes match footage to extract and visualize various metrics like player positions, speeds, distances covered, team possession, and camera movements. The output is an annotated video providing comprehensive insights into the game.
 
